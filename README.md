@@ -1,4 +1,9 @@
 # SignalR .NET Core + Angular App
+
+## Demo
+![](signalrdemo.gif)
+
+## Introduction
 Simple project for a SignalR application with one backend and 3 clients. 
 The structure is the following:
 
